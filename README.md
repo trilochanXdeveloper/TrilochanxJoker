@@ -4,11 +4,11 @@
 - 💻 **Programming Languages: Java, C, JavaScript, Html.
 - 📚 **Skills:  React, SQL, Css.
 <!-- - 💼 **Current Projects:  -->
-- 💞️ **Looking to Collaborate On:** Frontend Development, Java Projects
-- 📫 **How to Reach Me: https://www.linkedin.com/in/trilochan1softwaredeveloper/
-- 😄 **Pronouns: He/Him
-- ⚡ **Fun Fact: i'm a Engineer,
-- 📸 **Hobby:** Photography
+- 💞️ Looking to Collaborate On:** Frontend Development, Java Projects
+- 📫 How to Reach Me: https://www.linkedin.com/in/trilochan1softwaredeveloper/
+- 😄 Pronouns: He/Him
+- ⚡ Fun Fact: i'm a Engineer,
+- 📸 Hobby: Photography
 
 
 <!---
